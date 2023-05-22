@@ -13,5 +13,8 @@
 
 
 
-https://github.com/itaskinn/NewsApp/assets/101405883/68a7b740-873a-4330-b33a-fc6ae9ab4242
+
+https://github.com/itaskinn/News-App/assets/101405883/c622783a-c5f2-4968-ae17-327f38d6e1bb
+
+
 
