@@ -21,5 +21,3 @@ My News App application displays news from the "haberler.com" website in real ti
   </tr>
 </table>
 
-
-https://github.com/ibrahimtaskinn/News-App/assets/101405883/bdbf1362-7b6a-40c9-9f51-cb7face8bd2f
